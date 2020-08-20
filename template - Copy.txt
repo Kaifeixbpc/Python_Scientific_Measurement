@@ -1,0 +1,10 @@
+sour dummy printn range:-10,10,11 Wait0.1
+meas0: dummy printl
+meas1: dummy printm
+meas2: dummy printm
+meas3: dummy printm
+sour dummy printn range:-10,10,51 Wait0.1
+meas0: dummy printl
+meas1: dummy printm
+meas2: dummy printm
+meas3: dummy printl
